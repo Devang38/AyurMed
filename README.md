@@ -1,0 +1,1 @@
+The project is basically made for an individual who wants to access their Prakriti. The project focuses on Chatbot rather than a website. The wbesite is non responsive while the chatbot is fully responsive.
